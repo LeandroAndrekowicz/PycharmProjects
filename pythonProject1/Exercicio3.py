@@ -1,0 +1,6 @@
+nome = input("Digite seu nome:")
+idade = float(input("Digite a sua idade:"))
+altura = float(input("Digite a sua altura:"))
+peso = float(input("Digite seu peso:"))
+nacionalidade = input("Digite sua nacionalidade:")
+print("Seu nome eh:%s \nSua idade eh:%.2f \nSua altura eh:%.2f \nSeu peso eh:%.2f \nSua nacionalidade eh:%s"% (nome, idade, altura, peso, nacionalidade))

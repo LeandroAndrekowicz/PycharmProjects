@@ -1,0 +1,3 @@
+O Exercicio 11 acredito que minha lógica para resolução está correta porém na hora
+de imprimir os valores não salva nas variaveis...
+O Exercicio 10 nao consegui fazer pois fiquei muito tempo travado no 11.
